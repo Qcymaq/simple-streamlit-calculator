@@ -13,12 +13,12 @@ This project is a basic calculator application built using [Streamlit](https://s
 
 1. **Clone the repository:**
 ```bash
-   git clone <repository_url>
+   git clone https://github.com/Qcymaq/simple-streamlit-calculator.git
 ```
 
 2. **Navigate to the project directory:**
 ```bash
-    cd <project_directory>
+    cd simple-streamlit-calculator
 ```
 3. **Install dependencies:**
 ```bash
